@@ -5,3 +5,5 @@ andres bohorquez tiene 30 años y nacio en colombia, y siempre ha vivido en colo
 vamos a contar mi historia
 
 estoy aprendiendo a usar git 
+
+cada dia aprendo mas.
